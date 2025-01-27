@@ -18,3 +18,14 @@ A sleek and modern travel landing page built using React. This project is a visu
 - **React**: JavaScript library for building user interfaces.
 - **HTML/CSS**: For structure and styling.
 - **Font Awesome**: For icons .
+
+---
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/60373451-0aa9-4e74-a036-f9c8e15cac93" />
+<br>
+<br>
+<br>
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/a6df1abd-9e1c-4e50-99e4-3049f18cc333" />
+<br>
+<br>
+<br>
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c6cdeb6e-f1df-4254-86b8-4f53d4e384f2" />
